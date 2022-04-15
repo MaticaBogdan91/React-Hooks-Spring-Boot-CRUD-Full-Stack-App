@@ -1,6 +1,6 @@
 # Getting Started with Create React App
-# React-Hooks-Spring-Boot-CRUD-Full-Stack-App
-In this project, I've built a complete full-stack web application using Spring boot as backend and React (React Hooks) as frontend. I've used MySQL database to store and retrieve the data.
+# Registration Full-Stack Crud Application using Spring Boot & React (React Hooks)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
